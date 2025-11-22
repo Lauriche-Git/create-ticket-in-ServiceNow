@@ -2,8 +2,7 @@
 How To Create A Ticket In ServiceNow
 ### 🎬 Watch me create a ticket in serviceNow
 
-<img width="592" height="458" alt="Cover" src="https://github.com/user-attachments/assets/3d49dc0f-db29-4c86-beff-c9726ee47d7e" />
-
+![cover-linkedin](https://github.com/user-attachments/assets/ba286385-f4e6-41cd-a7f5-e5379bf8a62d)
 
 ### Project Steps
   ## Step 1: Open servicenow and clik on all at the top left.
