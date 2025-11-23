@@ -1,5 +1,4 @@
 ### Create-ticket-in-ServiceNow
-How To Create A Ticket In ServiceNow
 ### 🎬 Watch me create a ticket in serviceNow
 
 https://www.loom.com/share/c3907f989fa046ae9c41c5f9653a93ff
